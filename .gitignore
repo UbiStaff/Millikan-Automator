@@ -12,6 +12,7 @@ env/
 .DS_Store
 
 # Large Media Files (GitHub limit > 100MB)
-*.mp4
-*.MOV
-*.mov
+# 排除所有超过 100MB 的文件
+密立根实验测试视频/3/166下.mp4
+密立根实验测试视频/2/test-vid.MOV
+密立根实验测试视频/2/166下.mp4
